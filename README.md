@@ -49,7 +49,7 @@ As a frequent reader of PDFs, I found that traditional reading methods often led
 Here are some screenshots of the Speedreader App in action:
 
 ### Main Interface
-![Main Interface](samples\demo1.png)
+![Main Interface](samples/demo1.png)
 
 <!-- ### Upload PDF
 ![Upload PDF](path/to/your/image2.png) -->
